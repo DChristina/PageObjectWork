@@ -14,6 +14,6 @@ public class Config {
             System.out.println("Property file was not find config.properties");//  для тог чтобі получать сообщение об отсутс файла config
         }
 
-        return prop.getProperty(propertyName);//возвращаем значение проперти ищем по ключу
+        return prop.getProperty(propertyName);//возвращаем значение проперти ищем по ключу ghjghjjhgjhgjhgjggg  jhjhjk 
     }
 }
